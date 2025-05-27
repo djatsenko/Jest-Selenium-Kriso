@@ -14,21 +14,6 @@
 
 ---
 
-## 🗂 Структура проекта
-
-Jest-Selenium-Kriso-main/
-│
-├── pageobjects/ # Page Object файлы (homePage.js, cartPage.js, basePage.js)
-├── tests/ # Тестовые файлы
-│ ├── cart.test.js
-│ ├── search.test.js
-│ └── menu.test.js
-├── package.json
-├── README.md (этот файл)
-
-
----
-
 ## 🧪 Реализованные тесты
 
 ### 🔍 1. Search for Books by Keywords (`search.test.js`)
